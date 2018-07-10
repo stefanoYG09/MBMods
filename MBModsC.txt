@@ -1,10 +1,23 @@
-{"version_code":354664,"content":"
+{"version_code":452257,"content":"
 <p>v5.0</p>
 
+<li>MBINSTA+/MBINSTAGRAM TRANSPARENT V1.50</li>
 
-<li>nothing</li>
-<li>nothing</li>
+<li>Features For MBMoDs.</li>
 
+<li>• Fixed comments on live videos.</li>
+
+<li>•[Fixed] Crashed log Fixed... Now MBInstagram Worked with all devices ( Android 4, 5, 6, 7 and 8 ).</li>
+
+<li>•[Fixed] MBSettings.</li>
+
+<li>•[enabled] You can now log in from your Facebook account without having to uninstall the official Facebook app.</li>
+
+<li>•[enabled] Multi-window for android 6 or higher (and devices that support this feature).</li>
+
+<li>•[Disabled] Immersion mode (hidden status bar and navigation by default).</li>
+
+<li>•and more</li>
 
 ","url":"www.mbmods.ga/"
 }
