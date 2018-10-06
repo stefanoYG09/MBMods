@@ -1,11 +1,11 @@
-{"version_code":333257,"content":"
+{"version_code":999999999,"content":"
 <p>v5.5</p>
 
-<li>GB-IOS WhatsApp Extreme</li>
+<li>GB-IOS  X</li>
 
-<li>Added All emojis IOS by default.</li>
-<li>Agregado todos los emojis IOS por defecto.</li>
+<li>Nueva Actualización encontrada</li>
+<li>New Update Found</li>
 
 
-","url":"https://www.mbmods.ga/2018/06/gb-ios-whatsapp-extreme-v50-by-stefanoyg.html?m=1"
+","url":"https://www.mbmods.ga/"
 }
