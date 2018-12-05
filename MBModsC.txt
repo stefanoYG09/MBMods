@@ -1,5 +1,5 @@
 {"version_code":999999999,"content":"
-<p>v5.5</p>
+<p>v7.0</p>
 
 <li>GB-IOS  X</li>
 
