@@ -5,5 +5,6 @@
 <li> Support Italian languages (thanks to tony)</li>
 <li> Fixed Download Video/Images Options (private accounts)</li>
 <li> Fixed InstaUltra crash (90%)</li>
+<li> Jelou mada fakel</li>
 
  ","url":"https://mbmods.blogspot.com/?m=1" }
