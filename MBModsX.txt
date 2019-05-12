@@ -4,6 +4,6 @@
 <li> ReAdded Option to Start Audio Directly with Video</li> <li> ReAdded InstaUltra Settings Icon on Header of profile</li> <li> ReAdded Privacy - Hide View Status</li>
 <li> Support Italian languages (thanks to tony)</li>
 <li> Fixed Download Video/Images Options (private accounts)</li>
-<li> Fixed InstaUltra crash (90%)</li>
+<li> Fixed InstaUltra crash (97%)</li>
 
  ","url":"https://mbmods.blogspot.com/?m=1" }
