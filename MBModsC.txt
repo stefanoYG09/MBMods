@@ -1,7 +1,7 @@
-{"version_code":6,"content":" 
+{"version_code":7,"content":" 
 <p>GB iOS X beta2</p>
 
-<li></li> 
+<li>Hola</li> 
 <li></li>
 <li></li>
 <li></li>
