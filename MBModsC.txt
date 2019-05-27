@@ -5,8 +5,11 @@
 <li>Se ha reducido la posibilidad de que tu cuenta sea suspendida</li>
 
 
+
 <li></li>
 <li></li>
 <li></li>
+<li>This window will disappear at the end of the day. Thanks</ li>
+<li>Esta ventana desaparecerá al final del día. Thanks</ li>
 
  ","url":"https://mbmods.blogspot.com/?m=1" }
