@@ -1,13 +1,1 @@
-{'ver1':'8', 'ver2':'13', 'ver3':'\n
-
-• Update Story like Instagram v2
-\n• Update Image sending increased up to 21MB 
-\n • Update Entry iOS Style v2 
-\n • Add IOS style message counter in conversation
- \n• Add Last Time Color in conversation 
-\n • Fixed Message counter in tabs 
-\n • Fixed Message Information 
- \n• Fixed Status Detais 
-\n • Fixed More bug fixes and improvements!\n
-
-\n' , 'dli':'http://fouadmods.com/fouad-whatsapp'}
+{'ver1':'8', 'ver2':'12', 'ver3':'\n[Base] Update 2.19.291\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n' , 'dli':'http://mbmods.xyz/fouad/index.html'}
