@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'26', 'ver3':'\nFixed Notification Status\nNotification Status now take Color\nAnti Expires\nFixed Some Bugs and more\n' , 'dli':'http://mbmods.xyz/fouad/index.html'}
+{'ver1':'8', 'ver2':'27', 'ver3':'\nFixed Installation error on some devices\nFixed Notification Status\nNotification Status now take Color\nAnti Expires\nFixed Some Bugs and more\n' , 'dli':'http://mbmods.xyz/fouad/index.html'}
