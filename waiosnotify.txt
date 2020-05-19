@@ -1,0 +1,7 @@
+{
+ "title":"Efeitos de transições personalizados",
+ "description":"Vá até Complementos > Lista de conversa > Efeito de transição para usar os novos efeitos =)",
+ "button":"Ok, entendi",
+ "url":"",
+ "id":"0yi831p8"
+}
