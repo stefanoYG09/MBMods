@@ -4,7 +4,7 @@
   "theme_user":"Interface sem alterações visuais",
   "theme_date":"Fixado",
   "theme_size":"200 KB",
-  "theme_preview_1":"https://t.me/c/1468396829/2",
+  "theme_preview_1":"https://t.me/testwathemes/2",
   "theme_preview_2":"https://telegra.ph/file/da41b3731573638ee03e0.jpg",
   "theme_preview_3":"https://telegra.ph/file/7282d92283e826a59e59f.jpg",
   "theme_download_noads":"https://tgho.st/VJHBm",
