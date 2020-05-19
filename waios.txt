@@ -1,0 +1,8 @@
+{
+ "version":"8.32",
+ "title":"Atualização disponível",
+ "description":"Fizemos alterações e corrigimos erros para deixar o aplicativo melhor. Atualize para usar os novos efeitos de transição =)",
+ "download":"https://t.me/joinchat/K6ndElOfnXIITpXSF5fOmQ",
+ "users_premium":"C29A804",
+ "force":"true"
+}
