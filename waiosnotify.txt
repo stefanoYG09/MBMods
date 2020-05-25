@@ -3,5 +3,5 @@
  "description":"Vá até Complementos > Lista de conversa > Efeito de transição para usar os novos efeitos =)",
  "button":"Ok, entendi",
  "url":"",
- "id":"0yi831p8"
+ "id":"0yi831p8,C16A675"
 }
