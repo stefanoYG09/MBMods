@@ -1,8 +1,8 @@
 {
- "version":"8.33",
+ "version":"8.37",
  "title":"New Update Found",
  "description":"• Fixed Alert Dialog/Notification \n • Fixed SeachView \n • Others Fixeds",
  "download":"https://t.me/MBMods",
- "users_premium":"C237A828",
- "force":"true"
+ "users_premium":"C16A675",
+ "force":"false"
 }
