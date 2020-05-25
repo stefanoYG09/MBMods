@@ -1,7 +1,7 @@
 {
- "title":"Efeitos de transições personalizados",
- "description":"Vá até Complementos > Lista de conversa > Efeito de transição para usar os novos efeitos =)",
- "button":"Ok, entendi",
+ "title":"Fouad iOS Beta 2",
+ "description":"Home redesign, \ n corrections, \ n Theme store \ n and more",
+ "button":"Ok",
  "url":"",
  "id":"C16A675"
 }
