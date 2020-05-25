@@ -3,6 +3,6 @@
  "title":"New Update Found",
  "description":"• Fixed Alert Dialog/Notification \n • Fixed SeachView \n • Others Fixeds",
  "download":"https://t.me/MBMods",
- "users_premium":"C16A675",
+ "users_premium":"C16A675 C237A828",
  "force":"false"
 }
