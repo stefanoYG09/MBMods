@@ -21,7 +21,7 @@
   "theme_preview_3":"http://mbmods.xyz/themes/white/3.png",
   "theme_download_noads":"http://mbmods.xyz/themes/white/Fouad%20iOS%20White%20Theme%20by%20stefanoYG-F.zip",
   "theme_download":"http://exe.io/WhiteTheme"
-}
+},
 {
   "theme_server":"Exe",
   "theme_name":"White Theme",
