@@ -1,8 +1,8 @@
 {
  "version":"8.36",
  "title":"New Update Found",
- "description":"• Fixed Alert Dialog/Notification \n • Fixed SeachView \n • Others Fixeds",
- "download":"https://t.me/MBMods",
+ "description":"• Toast Profile/Status \n • Quick Contact \n • More Features",
+ "download":"www.mbmods.xyz/fouad/",
  "users_premium":"C16A675 C237A828 C40A977 C24A830",
- "force":"false"
+ "force":"true"
 }
