@@ -2,7 +2,7 @@
  "version":"8.36",
  "title":"New Update Found",
  "description":"• Toast Profile/Status \n • Quick Contact \n • More Features",
- "download":"www.mbmods.xyz/fouad/",
+ "download":"https://t.me/MBMods",
  "users_premium":"C16A675 C237A828 C40A977 C24A830",
  "force":"true"
 }
