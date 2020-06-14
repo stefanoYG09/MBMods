@@ -1,5 +1,5 @@
 {
- "version":"8.36",
+ "version":"8.37",
  "title":"New Update Found",
  "description":"• Toast Profile/Status \n • Quick Contact \n • More Features",
  "download":"https://t.me/MBMods",
