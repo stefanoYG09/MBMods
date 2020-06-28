@@ -1,7 +1,7 @@
 {
- "version":"8.37",
+ "version":"8.38",
  "title":"New Update Found",
- "description":"• Toast Profile/Status \n • Quick Contact \n • More Features",
+ "description":"• New Entry iOS \n • Quick Contact \n • More Features",
  "download":"https://t.me/MBMods",
  "users_premium":"C16A675 C237A828 C40A977 C24A830",
  "force":"true"
