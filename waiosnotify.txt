@@ -1,6 +1,6 @@
 {
  "title":"Fouad iOS Beta 3",
- "description":"• Toast Status/Profile \n • Quick Contact \n And More.",
+ "description":"• New Entry iOS \n • Quick Contact \n And More.",
  "button":"Ok",
  "url":"",
  "id":"C16A675 C237A828 C40A977 C24A830"
