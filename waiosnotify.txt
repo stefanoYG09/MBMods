@@ -1,6 +1,6 @@
 {
  "title":"Fouad iOS v8.45 Beta 1",
- "description":"• New base  \n • New home ( Apply theme ) \n And More.",
+ "description":"• New Features  \n • New home ( Apply theme ) \n And More.",
  "button":"Ok",
  "url":"",
  "id":"C16A675 C237A828 C40A977 C24A830"
