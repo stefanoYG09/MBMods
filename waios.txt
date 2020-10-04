@@ -3,6 +3,6 @@
  "title":"New Update Found",
  "description":"• New Features \n • Stories Styles \n More features \n",
  "download":"https://t.me/MBMods",
- "users_premium":"C16A675 C237A828 C40A977 C24A830",
+ "users_premium":"C16A675 C237A828 C40A977 C24A830 C3A256 C3D255",
  "force":"true"
 }
