@@ -58,7 +58,7 @@
   "theme_preview_1":"http://mbmods.xyz/fouad/themes/imgs/tgeeen1.jpg",
   "theme_preview_2":"http://mbmods.xyz/fouad/themes/imgs/tgreen2.jpg",
   "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/tgreen3.jpg",
-   "theme_download_noads":"https://mbmods.xyz/fouad/themes/true_green.zip",
+  "theme_download_noads":"https://mbmods.xyz/fouad/themes/true_green.zip",
   "theme_download":"http://mbmods.xyz/fouad/themes/theme3.html"
  
 },
@@ -87,7 +87,7 @@
   "theme_download":"http://mbmods.xyz/fouad/themes/theme4.html"
 },
 {
-"theme_server":"MaverickSM",
+  "theme_server":"MaverickSM",
   "theme_name":"Messenger Theme",
   "theme_user":"(◠‿・)—☆️",
   "theme_date":"09/11/20",
