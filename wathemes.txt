@@ -32,8 +32,8 @@
   "theme_preview_1":"https://mbmods.xyz/fouad/themes/imgs/darkoldof1.jpg",
   "theme_preview_2":"https://mbmods.xyz/fouad/themes/imgs/darkoldof2.jpg",
   "theme_preview_3":"https://mbmods.xyz/fouad/themes/imgs/darkoldof3.jpg",
-   "theme_download_noads":"https://mbmods.xyz/fouad/themes/Fouad_iOS_DarkOld.zip"
-  "theme_download":"http://mbmods.xyz/fouad/themes/themedarkoldoff.html",
+   "theme_download_noads":"https://mbmods.xyz/fouad/themes/Fouad_iOS_DarkOld.zip",
+  "theme_download":"http://mbmods.xyz/fouad/themes/themedarkoldoff.html"
  
 },
 {
