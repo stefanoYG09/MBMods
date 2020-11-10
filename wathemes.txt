@@ -86,6 +86,7 @@
   "theme_download_noads":"https://mbmods.xyz/fouad/themes/cbpunk.zip",
   "theme_download":"http://mbmods.xyz/fouad/themes/theme4.html"
 },
+{
 "theme_server":"MaverickSM",
   "theme_name":"Messenger Theme",
   "theme_user":"(◠‿・)—☆️",
