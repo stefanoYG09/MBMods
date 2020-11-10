@@ -73,16 +73,4 @@
   "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/black1.jpg",
   "theme_download_noads":"https://mbmods.xyz/fouad/themes/Black_Theme.zip",
   "theme_download":"http://mbmods.xyz/fouad/themes/theme1.html"
-},
-{
-  "theme_server":"Alex Langford",
-  "theme_name":"CybenPunk Theme",
-  "theme_user":"(◠‿・)—☆️",
-  "theme_date":"09/11/20",
-  "theme_size":"110 KB",
-  "theme_preview_1":"http://mbmods.xyz/fouad/themes/imgs/black1.jpg",
-  "theme_preview_2":"http://mbmods.xyz/fouad/themes/imgs/black2.jpg",
-  "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/black1.jpg",
-  "theme_download_noads":"https://mbmods.xyz/fouad/themes/cbpunk.zip",
-  "theme_download":"http://mbmods.xyz/fouad/themes/theme4.html"
 }]
