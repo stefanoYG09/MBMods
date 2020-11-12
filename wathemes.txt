@@ -103,10 +103,34 @@
   "theme_name":"iOS Red Theme",
   "theme_user":"(◠‿・)—☆️",
   "theme_date":"11/11/20",
-  "theme_size":"40 KB",
+  "theme_size":"110 KB",
   "theme_preview_1":"http://mbmods.xyz/fouad/themes/imgs/red1.jpg",
   "theme_preview_2":"http://mbmods.xyz/fouad/themes/imgs/red2.jpg",
   "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/red3.jpg",
   "theme_download_noads":"https://mbmods.xyz/fouad/themes/ios_red.zip",
   "theme_download":"http://mbmods.xyz/fouad/themes/theme6.html"
+},
+{
+  "theme_server":"Jairo BC7",
+  "theme_name":"CanariOs Styme",
+  "theme_user":"(◠‿・)—☆️",
+  "theme_date":"12/11/20",
+  "theme_size":"110 KB",
+  "theme_preview_1":"http://mbmods.xyz/fouad/themes/imgs/canary1.jpg",
+  "theme_preview_2":"http://mbmods.xyz/fouad/themes/imgs/canary2.jpg",
+  "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/canary3.jpg",
+  "theme_download_noads":"https://mbmods.xyz/fouad/themes/CanariOs_Styme.xml",
+  "theme_download":"http://mbmods.xyz/fouad/themes/theme7.html"
+},
+{
+  "theme_server":"Nitzy O.",
+  "theme_name":"Purple Theme",
+  "theme_user":"(◠‿・)—☆️",
+  "theme_date":"12/11/20",
+  "theme_size":"50 KB",
+  "theme_preview_1":"http://mbmods.xyz/fouad/themes/imgs/purple1.jpg",
+  "theme_preview_2":"http://mbmods.xyz/fouad/themes/imgs/purple2.jpg",
+  "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/purple3.jpg",
+  "theme_download_noads":"https://mbmods.xyz/fouad/themes/theme_purple.zip",
+  "theme_download":"http://mbmods.xyz/fouad/themes/theme8.html"
 }]
