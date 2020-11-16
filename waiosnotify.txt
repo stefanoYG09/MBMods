@@ -1,5 +1,5 @@
 {
- "title":"Fouad iOS v8.52",
+ "title":"Fouad iOS v8.53",
  "description":"• New Features  \n • New home ( Apply theme ) \n And More.",
  "button":"Ok",
  "url":"",
