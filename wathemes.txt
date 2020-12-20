@@ -172,7 +172,7 @@
 },
 {
   "theme_server":"Mavo 254",
-  "theme_name":"Twilight Brown,
+  "theme_name":"Twilight Brown",
   "theme_user":"(◠‿・)—☆️",
   "theme_date":"20/12/20",
   "theme_size":"50 KB",
