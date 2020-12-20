@@ -191,7 +191,7 @@
   "theme_preview_1":"http://mbmods.xyz/fouad/themes/imgs/indie1.jpg",
   "theme_preview_2":"http://mbmods.xyz/fouad/themes/imgs/indie2.jpg",
   "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/indie3.jpg",
-  "theme_download_noads":"https://mbmods.xyz/fouad/themes/✰_🌈⠂𝙞𝙣𝙙𝙞𝙚_𝙠𝙞𝙙𝙘𝙤𝙧𝙚_◇_𝙩𝙝𝙚𝙢𝙚_⌗🎨﹆_𝘣𝘺_𓏲🎨⠂𝐀𝐃𝐄𝐑𝐋𝐈_🎒⠂🍄ꪆ.zip",
+  "theme_download_noads":"https://mbmods.xyz/fouad/themes/http://mbmods.xyz/fouad/themes/theme13.html",
   "theme_download":"http://mbmods.xyz/fouad/themes/theme13.html"
 },
 {
