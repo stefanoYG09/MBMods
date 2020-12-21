@@ -1,15 +1,1 @@
-{
-  "title": "This is Title!",
-  "message": "This is Message",
-  "download": "Direct APK Download Link!!!",
-  "playstore": "com.mgngoe.zfont",
-  "uninstall": false,
-  "what": {
-    "model": [],
-    "version": [],
-    "all": true
-  },
-  "versionName": "1.7",
-  "versionCode": 8,
-  "force": true
-}
+{ "version":"8.80", "expire860":"125","expire850":"125","rewards":"", "title":"", "description":"🔺 Baseado no Fouad 8.65\n 🔻 Corrigido: idioma inglês e espanhol\n🔺 Corrigido: bugs ao enviar mensagens em grupos\n🔺 Corrigido: bugs ao utilizar a opção 'Ticks azuis após resposta' em grupos", "download":"https://t.me/MBMods", "users_premium":"", "force":"true" }
