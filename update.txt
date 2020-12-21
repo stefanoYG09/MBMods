@@ -1,6 +1,5 @@
 { 
 "version":"8.85",
  "title":"Update Found", 
-"description":"🔺 Baseado no Fouad 8.65\n 🔻 Corrigido: idioma inglês e espanhol\n🔺 Corrigido: bugs ao enviar mensagens em grupos\n🔺 Corrigido: bugs ao utilizar a opção 'Ticks azuis após resposta' em grupos", "download":"https://t.me/MBMods",
-"force":"true" 
+"description":"🔺 Baseado no Fouad 8.65\n 🔻 Corrigido: idioma inglês e espanhol\n🔺 Corrigido: bugs ao enviar mensagens em grupos\n🔺 Corrigido: bugs ao utilizar a opção 'Ticks azuis após resposta' em grupos", "download":"https://t.me/MBMods"
 }
