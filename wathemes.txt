@@ -1,4 +1,5 @@
-[{
+[
+{
   "theme_server":"stefanoYG",
   "theme_name":"Dark Theme",
   "theme_user":"Hey please turn off the lights🌛",
@@ -205,4 +206,5 @@
   "theme_preview_3":"http://mbmods.xyz/fouad/themes/imgs/ci3.jpg",
   "theme_download_noads":"https://mbmods.xyz/fouad/themes/CIOS-Starmine.zip",
   "theme_download":"http://mbmods.xyz/fouad/themes/theme14.html"
-}]
+}
+]
