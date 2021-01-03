@@ -1,1 +1,1 @@
-{ "version":"8.80", "expire860":"125","expire850":"125","rewards":"", "title":"", "description":"🔺 Base Fouad v8.65\n🔻 Cambios por aquí\n🔺 Cambios por allá\n🔺 Lalalalalalalala", "download":"https://t.me/MBMods", "users_premium":"", "force":"true" }
+{ "version":"8.66", "expire860":"125","expire850":"125","rewards":"", "title":"", "description":"• Toolbar Animation\n• MB Settings Redesign\n• And More...", "download":"https://t.me/MBMods", "users_premium":"", "force":"true" }
