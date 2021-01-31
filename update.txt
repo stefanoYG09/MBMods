@@ -1,5 +1,5 @@
 { 
-"version":"8.79",
+"version":"8.80",
  "title":"Update Found", 
 "description":"• New base\n• Fixed spanish language\n• Fixed delay message\n• Other fixeds", "download":"https://t.me/MBMods"
 }
