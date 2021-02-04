@@ -1,1 +1,1 @@
-{ "version":"8.70", "expire860":"125","expire850":"125","rewards":"", "title":"", "description":"• Toolbar Animation\n• MB Settings Redesign\n• And More...", "download":"https://t.me/MBMods", "users_premium":"", "force":"true" }
+{ "version":"8.71", "expire860":"125","expire850":"125","rewards":"", "title":"", "description":"• Toolbar Animation\n• MB Settings Redesign\n• And More...", "download":"https://t.me/MBMods", "users_premium":"", "force":"true" }
