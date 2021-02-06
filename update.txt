@@ -1,5 +1,5 @@
 { 
 "version":"8.71.1",
  "title":"New Update / Nueva actualización", 
-"description":"• Fixed status privacy ", "download":"https://t.me/MBMods"
+"description":"• Fixed status privacy\n\n• Solucionado privacidad de estados", "download":"https://t.me/MBMods"
 }
