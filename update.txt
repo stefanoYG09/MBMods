@@ -1,5 +1,5 @@
 { 
-"version":"8.85",
+"version":"8.87",
  "title":"New Update / Nueva actualización", 
 "description":"• Option for Hide Ads\n• Enable Auto Hide inactive chats\n• Moved unarchive new messages option to Mbsettings\n• Small fixes in the interface.\n• And More...", "download":"https://t.me/MBMods"
 }
