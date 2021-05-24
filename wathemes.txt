@@ -7,8 +7,8 @@
   "theme_preview_1":"https://mb-mods.com/fouad/themes/imgs/darkof1.jpg",
   "theme_preview_2":"https://mb-mods.com/fouad/themes/imgs/darkof2.jpg",
   "theme_preview_3":"https://mb-mods.com/fouad/themes/imgs/darkf3.jpg",
-  "theme_download_noads":"https://mb-mods.com/fouad/themes/themedarkoff.html",
-  "theme_download":"https://mb-mods.com/fouad/themes/themedarkoff.html"
+  "theme_download_noads":"https://mb-mods.com/fouad/themes/Fouad_iOS_DarkM.zip",
+  "theme_download":"https://mb-mods.com/fouad/themes/Fouad_iOS_DarkM.zip"
 },
 {
   "theme_server":"stefanoYG",
