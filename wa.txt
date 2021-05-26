@@ -1,0 +1,3 @@
+{ 
+"version":"8.87", "download":"https://t.me/MBMods"
+}
