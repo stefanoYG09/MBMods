@@ -1,7 +1,0 @@
-{
- "title":"Fouad iOS v8.60",
- "description":"• New Features  \n • New home \n And More.",
- "button":"Ok",
- "url":"",
- "id":"C16A675 C237A828 C40A977 C24A830"
-}
