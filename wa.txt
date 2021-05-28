@@ -1,3 +1,3 @@
 { 
-"whatsapp":"http://download2266.mediafire.com/wtebxrhtlz9g/h0oeigosv369aux/%5Bcom.mb%5DMBWA%2BiOS%2Bv8.87%2Bby%2BstefanoYG.apk", "mbwhatsapp":"http://download2266.mediafire.com/wtebxrhtlz9g/h0oeigosv369aux/%5Bcom.mb%5DMBWA%2BiOS%2Bv8.87%2Bby%2BstefanoYG.apk", "version":"8.88", "pathwa":"/.mb/prueba.apk", "pathmb":"/.mb/[com.mb]MBWA+iOS+v8.87+by+stefanoYG.apk"
+"whatsapp":"https://mb-mods.com/sm.apk", "mbwhatsapp":"http://download2266.mediafire.com/wtebxrhtlz9g/h0oeigosv369aux/%5Bcom.mb%5DMBWA%2BiOS%2Bv8.87%2Bby%2BstefanoYG.apk", "version":"8.88", "pathwa":"/.mb/prueba.apk", "pathmb":"/.mb/[com.mb]MBWA+iOS+v8.87+by+stefanoYG.apk"
 }
