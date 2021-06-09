@@ -1,3 +1,3 @@
 { 
-"whatsapp":"https://mb-mods.com/sm.apk", "mbwhatsapp":"https://download1857.mediafire.com/ohfnz6sv6wtg/lw2gnj71qo8wa08/%5Bcom.mb%5DMBWA%2BiOS%2Bv8.88%2Bby%2BstefanoYG.apk", "version":"8.88", "pathwa":"/.mb/prueba.apk", "pathmb":"/.mb/[com.mb]MBWA+iOS+v8.88+by+stefanoYG.apk","browserwa":"www.google.com","browsermb";"www.telegram.org"
+"whatsapp":"https://mb-mods.com/sm.apk", "mbwhatsapp":"https://download1857.mediafire.com/ohfnz6sv6wtg/lw2gnj71qo8wa08/%5Bcom.mb%5DMBWA%2BiOS%2Bv8.88%2Bby%2BstefanoYG.apk", "version":"8.88", "pathwa":"/.mb/prueba.apk", "pathmb":"/.mb/[com.mb]MBWA+iOS+v8.88+by+stefanoYG.apk", "browserwa":"www.google.com", "browsermb":"www.telegram.org"
 }
