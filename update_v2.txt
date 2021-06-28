@@ -1,5 +1,5 @@
 { 
 "version":"8.89.1",
- "title":"New Update / Nueva actualización", 
+ "title":"Resources.getString("yo_FoundUp")", 
 "description":"• Auto reply\n• Message Scheduled\n• Fixed All bugs\n• Small fixes in the interface.\n• And More...", "download":"https://t.me/MBMods"
 }
