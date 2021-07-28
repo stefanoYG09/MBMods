@@ -1,3 +1,3 @@
 { 
-"whatsapp":"https://mb-mods.com/fouad/wa892Beta.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mb892Beta.apk", "version":"8.92 Beta", "pathwa":"/.mb/wa892Beta.apk", "pathmb":"/.mb/mb892Beta.apk", "browserwa":"https://www.mediafire.com/download/0ykbrvke4umvjlh", "browsermb":"https://www.mediafire.com/download/b2kpk05xpuzh0by"
+"whatsapp":"https://mb-mods.com/fouad/wa892Beta2.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mb892Beta2.apk", "version":"8.92 Beta 2", "pathwa":"/.mb/wa892Beta2.apk", "pathmb":"/.mb/mb892Beta2.apk", "browserwa":"https://www.mediafire.com/download/0glppb4jczg38rh", "browsermb":"https://www.mediafire.com/download/dpr4pmq4meknzb3"
 }
