@@ -1,5 +1,5 @@
 { 
-"version":"8.92",
+"version":"8.92b2",
  "title":"New Update", 
-"description":"•New Voice Speed\n• View image only once\n•  Small fixes in the interface.\n• And More..\n• please don't turn on instagram style stories.\n Por favor no habilites las historias estilo instagram en esta versión.", "download":"https://t.me/MBMods"
+"description":"•New Voice Speed\n• View image only once\n•  Fixed Bugs.\n• And More..\n• More improvements..", "download":"https://t.me/MBMods"
 }
