@@ -1,5 +1,5 @@
 { 
-"version":"8.92b2",
+"version":"8.92.1",
  "title":"New Update", 
-"description":"•New Voice Speed\n• View image only once\n•  Fixed Bugs.\n• And More..\n• More improvements..", "download":"https://t.me/MBMods"
+"description":"•Version Stable\n• View image only once\n•  Fixed Bugs.\n• And More..\n• More improvements..", "download":"https://t.me/MBMods"
 }
