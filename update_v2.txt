@@ -1,5 +1,0 @@
-{ 
-"version":"8.93f",
- "title":"New Update", 
-"description":"•Fixed Search Bar\n• Add Change Conversation Sound\n• Fixed All bugs\n• Small fixes in the interface.\n• And More...", "download":"https://t.me/MBMods"
-}
