@@ -1,5 +1,5 @@
 { 
 "version":"8.93.1",
  "version_last":"8.93.1", 
-"description":"• New Chats counter\n• Redesigned contact information\n•  Redesigned Group information.\n• More improvements..", "how":"https://t.me/MBMods/", "download":"https://t.me/MBMods"
+"description":"• New Chats counter\n• Redesigned contact information\n•  Redesigned Group information.\n• More improvements..", "how":"https://mb-mods.com/fouad/how_update.html", "download":"https://t.me/MBMods"
 }
