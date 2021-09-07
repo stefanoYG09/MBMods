@@ -1,4 +1,4 @@
 {
 "wa":"https://mb-mods.com/fouad/view_com_wa.html",
-"mb":https://mb-mods.com/fouad/view_com_mb.html"
+"mb":"https://mb-mods.com/fouad/view_com_mb.html"
 }
