@@ -2,6 +2,6 @@
 "version":"8.95",
  "version_last":"8.95", 
 "description":"• New Chats counter\n• Redesigned contact information\n•  Redesigned Group information.\n• More improvements..",
-"expActi":"",
+"expActi":"895",
 "how":"https://mb-mods.com/fouad/how_update.html", "download":"https://t.me/MBMods"
 }
