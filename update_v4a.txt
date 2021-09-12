@@ -1,7 +1,9 @@
 { 
 "version":"8.95",
- "version_last":"8.95", 
+ "version_last":"8.95", https://github.com/stefanoYG09/MBMods/blob/master/update_v4a.txt
 "description":"• New Chats counter\n• Redesigned contact information\n•  Redesigned Group information.\n• More improvements..",
 "expActi":"895",
-"how":"https://mb-mods.com/fouad/how_update.html", "download":"https://t.me/MBMods"
+"how":"https://mb-mods.com/fouad/how_update.html", 
+"download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
+"download_wa":"https://mb-mods.com/fouad/view_com_wa.html"
 }
