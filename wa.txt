@@ -1,3 +1,3 @@
 { 
-"whatsapp":"https://mb-mods.com/fouad/wa893f.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mb893f.apk", "version":"8.93F", "pathwa":"/.mb/wa893f.apk", "pathmb":"/.mb/mb893f.apk", "browserwa":"https://www.mediafire.com/download/6zcitqu0qz7vno9", "browsermb":"https://www.mediafire.com/download/2yz1lyoggtg5x97"
+"whatsapp":"https://mb-mods.com/fouad/wa895.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mb895.apk", "version":"8.95", "pathwa":"/.mb/wa895.apk", "pathmb":"/.mb/mb895.apk", "browserwa":"https://www.mediafire.com/download/lbrcwnxgayjlvjk", "browsermb":"https://www.mediafire.com/download/u3a3cnmxv58vj0t"
 }
