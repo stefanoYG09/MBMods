@@ -1,5 +1,0 @@
-{ 
-"version":"8.95",
- "title":"New Update", 
-"description":"• New Chats counter\n• Redesigned contact information\n•  Redesigned Group information.\n• More improvements..", "download":"https://t.me/MBMods"
-}
