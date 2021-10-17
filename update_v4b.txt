@@ -1,0 +1,9 @@
+{ 
+"version":"8.96",
+ "version_last":"9.0",
+"description":"• New Emojis\n• New Base\n• More improvements..",
+"expActi":"896",
+"how":"https://mb-mods.com/fouad/how_update.html", 
+"download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
+"download_wa":"https://mb-mods.com/fouad/view_com_wa.html"
+}
