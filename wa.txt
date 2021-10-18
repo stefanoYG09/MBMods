@@ -1,3 +1,3 @@
 { 
-"whatsapp":"https://mb-mods.com/fouad/wa895f.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mb895f.apk", "version":"8.95F", "pathwa":"/.mb/wa895f.apk", "pathmb":"/.mb/mb895f.apk", "browserwa":"https://www.mediafire.com/download/veqhhq2n3qiffxr", "browsermb":"https://apkadmin.com/syvuahtf5l9n/_com.mb_MBWA_iOS_v8.95F_by_stefanoYG.apk.html"
+"whatsapp":"https://mb-mods.com/fouad/wa896.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mb896.apk", "version":"8.96", "pathwa":"/.mb/wa896.apk", "pathmb":"/.mb/mb896.apk", "browserwa":"https://www.mediafire.com/file/hudju8sig2ktu34/%255Bcom.wa%255DFouadWA%252BiOS%252Bv8.96%252Bby%252BstefanoYG.apk/file", "browsermb":"https://www.mediafire.com/file/luf14xnfk8inmlp/%255Bcom.mb%255DMBWA%252BiOS%252Bv8.96%252Bby%252BstefanoYG.apk/file"
 }
