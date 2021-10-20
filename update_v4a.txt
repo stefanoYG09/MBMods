@@ -1,9 +1,18 @@
 { 
-"version":"8.96",
- "version_last":"8.96",
-"description":"• Blur Tab\n• ReAdded Background Image in Main Screen\n•  Redesigned Group information.\n• More improvements..",
-"expActi":"895",
+
+"version":"8.96f",
+
+"version_last":"8.96F",
+
+"description":"• Fixed Lag\n• Fixed Clear Chat\n• Fixed Export Chat",
+
+"expActi":"896",
+
 "how":"https://mb-mods.com/fouad/how_update.html", 
+
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
+
 "download_wa":"https://mb-mods.com/fouad/view_com_wa.html"
+
 }
+
