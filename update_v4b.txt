@@ -1,7 +1,7 @@
 { 
-"version":"8.96",
- "version_last":"9.0",
-"description":"• New Emojis\n• New Base\n• More improvements..",
+"version":"8.96f",
+ "version_last":"8.96F",
+"description":"• Fixed Lag\n• Fixed Clear Chat\n• Fixed Export Chat",
 "expActi":"896",
 "how":"https://mb-mods.com/fouad/how_update.html", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
