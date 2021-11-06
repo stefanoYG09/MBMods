@@ -1,3 +1,3 @@
 { 
-"whatsapp":"https://mb-mods.com/fouad/wa90.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mbwa90.apk", "version":"9.0 Beta", "pathwa":"/.mb/wa90.apk", "pathmb":"/.mb/mbwa90.apk", "browserwa":"https://www.mediafire.com/download/05lv4lffv6m36q5", "browsermb":"https://www.mediafire.com/download/89d83qa0651z6wf"
+"whatsapp":"https://mb-mods.com/fouad/wa90.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mbwa90.apk", "version":"9.0 Beta", "pathwa":"/.mb/wa90.apk", "pathmb":"/.mb/mbwa90.apk", "browserwa":"https://www.mediafire.com/download/gqnoq8z8qfj1cdf", "browsermb":"https://www.mediafire.com/download/zfrybxl3zo3x434"
 }
