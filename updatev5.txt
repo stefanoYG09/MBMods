@@ -1,7 +1,7 @@
 { 
-"version":"9.0",
- "version_last":"9.1",
-"description":"• Fixed Lag\n• Fixed Clear Chat\n• Fixed Export Chat",
+"version":"9.0b2",
+ "version_last":"9.05 Beta 2",
+"description":"• Fixed Bugs\n• New Font iOS\n• Others Fixeds",
 "expActi":"9.0",
 "how":"https://mb-mods.com/fouad/how_update.html", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
