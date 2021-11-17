@@ -1,3 +1,3 @@
 { 
-"web_one":"https://mb-mods.com/_wabanner2.hhtml", "web_two":"https://www.rcwamd.xyz/mdgram/index.hhtml"
+"web_one":"https://mb-mods.com/_wabanner2.hhtml", "web_two":"https://mail.rcwamd.xyz/wa_banner2/index.html"
 }
