@@ -1,6 +1,6 @@
 { 
-"version":"9.1",
- "version_last":"9.1",
+"version":"9.11",
+ "version_last":"9.11",
 "description":"• More features\n•Fixed Bugs\n• Fixed Media Mods\n• Others Fixeds",
 "expActi":"9.1",
 "how":"https://mb-mods.com/fouad/how_update.html", 
