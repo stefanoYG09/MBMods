@@ -1,7 +1,7 @@
 { 
-"version":"9.12",
- "version_last":"9.12",
-"description":"• More features\n•Fixed Bugs\n• Fixed Media Mods\n• Others Fixeds",
+"version":"9.12.1",
+ "version_last":"9.12.1",
+"description":"• Fixed issue when recording a voice note\n•Fixed issue when replying to a status",
 "expActi":"9.12",
 "how":"https://mb-mods.com/fouad/how_update.html", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
