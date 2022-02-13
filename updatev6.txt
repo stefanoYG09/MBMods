@@ -2,7 +2,7 @@
 "version":"9.21b2",
  "version_last":"9.21b2",
 "description":"• Fixed crash in android 6/7/8\n•Fixed profile in group info\n• Others Fixeds",
-"expActi":"9.21b2",
+"expActi":"9.21",
 "how":"https://mb-mods.com/fouad/how_update.html", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
 "download_wa":"https://mb-mods.com/fouad/view_com_wa.html"
