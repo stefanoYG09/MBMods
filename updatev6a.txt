@@ -1,7 +1,7 @@
 { 
-"version":"9.21b3",
- "version_last":"9.21b3",
-"description":"• Fixed languages\n•Fixed navbar\n• Entry style iOS 14 by defaultt\n• Others Fixeds",
+"version":"9.25.1",
+ "version_last":"9.25.1",
+"description":"• Reaction in status like Instagram/Facebook\n• Quick actions menu\n• Redesigned theme section\n• Others Fixeds",
 "expActi":"9.21b2",
 "how":"https://mb-mods.com/fouad/how_update.html", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
