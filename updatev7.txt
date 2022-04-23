@@ -1,6 +1,6 @@
 { 
-"version":"9.25.2",
- "version_last":"9.25.2",
+"version":"9.27.1",
+ "version_last":"9.27.1",
 "description":"• Fixed mention in group\n•Fixed theme section\n• Improved reaction in status\n• Others Fixeds",
 "expActi":"9.25.1",
 "how":"https://mb-mods.com/fouad/how_update.php", 
