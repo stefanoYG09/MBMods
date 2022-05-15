@@ -1,7 +1,7 @@
 { 
-"version":"9.27.1",
- "version_last":"9.27.1",
-"description":"• Fixed mention in group\n•Fixed theme section\n• Improved reaction in status\n• Others Fixeds",
+"version":"9.27.2",
+ "version_last":"9.27.2",
+"description":"• Extended expiration\n• Caducidad extendida\n• Expiração estendida",
 "expActi":"9.25.1",
 "how":"https://mb-mods.com/fouad/how_update.php", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.php", 
