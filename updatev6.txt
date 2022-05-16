@@ -1,7 +1,7 @@
 { 
-"version":"9.27.2",
- "version_last":"9.27.2",
-"description":"• Extended expiration\n• Caducidad extendida\n• Expiração estendida",
+"version":"9.27.3",
+ "version_last":"9.27.3",
+"description":"• Extended expiration\n• Fixed languages\n• Fixed bug when opening some settings for Portuguese language users",
 "expActi":"9.25.1",
 "how":"https://mb-mods.com/fouad/how_update.php", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.php", 
