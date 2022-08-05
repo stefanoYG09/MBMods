@@ -1,7 +1,7 @@
 { 
-"version":"9.30.2",
- "version_last":"9.30.2",
-"description":"• Fixed bugs\n• Fixed themes\n• Fixed bug when opening some settings for Arabic language users\n\n SAVE YOUR THEME BEFORE INSTALLING THIS VERSION\nGUARDA TU TEMA ANTES DE INSTALAR ESTA VERSIÓN",
+"version":"9.35",
+ "version_last":"9.35",
+"description":"• Based on Fouad 9.35\n• Added: Show notification for blocked calls due to calls privacy\n• Exclusive: Custom Double Tap emoji for every chat\n• Fixed: Chat Counter for Arabic Users \n• More fixeds",
 "expActi":"9.30b",
 "how":"https://mb-mods.com/fouad/how_update.php", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.php", 
