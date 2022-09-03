@@ -2,7 +2,7 @@
 "version":"9.27.3",
  "version_last":"9.27.3",
 "description":"• Extended expiration\n• Fixed languages\n• Fixed bug when opening some settings for Portuguese language users",
-"expActi":"9.25.1",
+"expActi":"9.35",
 "how":"https://mb-mods.com/fouad/how_update.php", 
 "download_mb":"https://mb-mods.com/fouad/view_com_mb.php", 
 "download_wa":"https://mb-mods.com/fouad/view_com_wa.php"
