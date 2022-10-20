@@ -1,9 +1,0 @@
-{ 
-"version":"9.12",
- "version_last":"9.12",
-"description":"• More features\n•Fixed Bugs\n• Fixed Media Mods\n• Others Fixeds",
-"expActi":"9.35",
-"how":"https://mb-mods.com/fouad/how_update.html", 
-"download_mb":"https://mb-mods.com/fouad/view_com_mb.html", 
-"download_wa":"https://mb-mods.com/fouad/view_com_wa.html"
-}
