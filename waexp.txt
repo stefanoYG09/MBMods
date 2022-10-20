@@ -1,5 +1,5 @@
 {
-"wa":"https://mb-mods.com/fouad/view_com_wa.html",
-"mb":"https://mb-mods.com/fouad/view_com_mb.html",
-"how":"https://mb-mods.com/fouad/"
+"wa":"https://mb-mods.net/fouad-ios/",
+"mb":"https://mb-mods.net/mbwa-ios/",
+"how":"https://mb-mods.net/"
 }
