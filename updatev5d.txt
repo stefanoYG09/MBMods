@@ -1,9 +1,0 @@
-{ 
-"version":"9.27.2",
- "version_last":"9.27.2",
-"description":"• Extended expiration\n• Caducidad extendida\n• Expiração estendida",
-"expActi":"9.35",
-"how":"https://mb-mods.com/fouad/how_update.php", 
-"download_mb":"https://mb-mods.com/fouad/view_com_mb.php", 
-"download_wa":"https://mb-mods.com/fouad/view_com_wa.php"
-}
