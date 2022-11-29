@@ -1,8 +1,8 @@
 { 
-"version":"9.41",
- "version_last":"9.40",
-"description":"• Fixed bugs\n• Fixed themes\n• Fixed bug when opening some settings for Arabic language users\n\n SAVE YOUR THEME BEFORE INSTALLING THIS VERSION\nGUARDA TU TEMA ANTES DE INSTALAR ESTA VERSIÓN",
-"expActi":"9.41bs",
+"version":"9.46",
+ "version_last":"9.45",
+"description":"• Exclusive CUSTOM FONT\n• Fixed Who blocked you\n• Fixed polls\n",
+"expActi":"9.41ex",
 "mb_show":"false",
 "how":"https://mb-mods.com/fouad/how_update.php", 
 "download_mb":"https://mb-mods.net/mbwa-ios/", 
