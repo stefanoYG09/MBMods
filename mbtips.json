@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Need more help?",
+    "subtitle": "Click here and you will be redirected to a telegram group."
+  },
+  {
+    "title": "Messages are not sent, statuses cannot be published",
+    "subtitle": "On the main screen, click on the title -More-, search among the square options, look for -Fix message delay-, press it and wait for WhatsApp to restart.\n\nOr just click here."
+  },
+  {
+    "title": "How to know which package to download?",
+    "subtitle": "Just go to Settings -> Info. There you will find all the information of the application."
+  },
+  {
+    "title": "Can I delete the downloaded file after installing the update?",
+    "subtitle": "Yes, you can delete the apk file, this will not affect your WhatsApp."
+  },
+  {
+    "title": "I found ads on my WhatsApp.",
+    "subtitle": "Ads? I will never add ads on WhatsApp iOS.\n\nIn the settings of your device -> applicationes.\nLook for some strange application, it may not contain an icon or even a name, uninstall immediately."
+  }
+]
