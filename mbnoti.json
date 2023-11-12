@@ -1,10 +1,12 @@
 {
     "dialogs": [
         {
-            "key": "welcome"
+            "dialog_key": "dialog_welcome",
+            "type": "welcome"
         },
         {
-            "key": "warning"
+            "dialog_key": "dialog_warning",
+            "type": "warning"
         }
     ]
 }
