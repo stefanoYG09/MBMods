@@ -1,12 +1,12 @@
 {
     "dialogs": [
         {
-            "dialog_key": "dialog_welcome4",
-            "type": "welcome"
+            "dialog_key": "dialog_join",
+            "type": "join_channel"
         },
         {
-            "dialog_key": "dialog_warning",
-            "type": "warning"
+            "dialog_key": "dialog_info",
+            "type": "info_message"
         }
     ]
 }
