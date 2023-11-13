@@ -1,7 +1,7 @@
 {
     "dialogs": [
         {
-            "dialog_key": "dialog_join",
+            "dialog_key": "dialog_join1",
             "type": "join_channel"
         },
         {
