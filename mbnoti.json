@@ -16,7 +16,7 @@
             "type": "support_message"
         },
         {
-            "dialog_key": "ramdom_support",
+            "dialog_key": "dialog_ramdom",
             "ramdom": "This is a test message",
             "type": "ramdom_message"
         }
