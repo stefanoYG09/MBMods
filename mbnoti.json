@@ -2,14 +2,17 @@
     "dialogs": [
         {
             "dialog_key": "dialog_join2",
+            "ramdom": "",
             "type": "join_channel"
         },
         {
-            "dialog_key": "dialog_info",
+            "dialog_key": "dialog_info",,
+            "ramdom": "",
             "type": "info_message"
         },
         {
-            "dialog_key": "dialog_support",
+            "dialog_key": "dialog_support",,
+            "ramdom": "",
             "type": "support_message"
         }
     ]
