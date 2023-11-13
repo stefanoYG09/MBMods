@@ -1,9 +1,8 @@
 {
     "dialogs": [
         {
-            "dialog_key": "dialog_welcome3",
-   
-         "type": "welcome"
+            "dialog_key": "dialog_welcome",
+            "type": "welcome"
         },
         {
             "dialog_key": "dialog_warning",
