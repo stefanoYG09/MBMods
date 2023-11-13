@@ -6,14 +6,19 @@
             "type": "join_channel"
         },
         {
-            "dialog_key": "dialog_info1",,
+            "dialog_key": "dialog_info1",
             "ramdom": "",
             "type": "info_message"
         },
         {
-            "dialog_key": "dialog_support",,
+            "dialog_key": "dialog_support",
             "ramdom": "",
             "type": "support_message"
+        },
+        {
+            "dialog_key": "ramdom_support",
+            "ramdom": "This is a test message",
+            "type": "ramdom_message"
         }
     ]
 }
