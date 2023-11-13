@@ -1,7 +1,7 @@
 {
     "dialogs": [
         {
-            "dialog_key": "dialog_welcome",
+            "dialog_key": "dialog_welcome4",
             "type": "welcome"
         },
         {
