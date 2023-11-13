@@ -7,6 +7,10 @@
         {
             "dialog_key": "dialog_info",
             "type": "info_message"
+        },
+        {
+            "dialog_key": "dialog_support",
+            "type": "support_message"
         }
     ]
 }
