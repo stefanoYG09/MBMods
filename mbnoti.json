@@ -6,7 +6,7 @@
             "type": "join_channel"
         },
         {
-            "dialog_key": "dialog_info1",
+            "dialog_key": "dialog_info2",
             "ramdom": "",
             "type": "info_message"
         },
