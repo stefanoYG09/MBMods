@@ -21,7 +21,7 @@
             "type": "ramdom_message"
         },
         {
-            "dialog_key": "dialog_joinwa",
+            "dialog_key": "dialog_joinwa1",
             "ramdom": "",
             "type": "join_channel_wa"
         }
