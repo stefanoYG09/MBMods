@@ -11,7 +11,7 @@
             "type": "info_message"
         },
         {
-            "dialog_key": "dialog_support",
+            "dialog_key": "dialog_support2",
             "ramdom": "",
             "type": "support_message"
         },
