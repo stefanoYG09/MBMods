@@ -11,7 +11,7 @@
             "type": "info_message"
         },
         {
-            "dialog_key": "dialog_support4",
+            "dialog_key": "dialog_support",
             "ramdom": "https://mb-mods.net/fouad/",
             "type": "support_message"
         },
