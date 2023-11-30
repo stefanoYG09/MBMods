@@ -16,7 +16,7 @@
             "type": "support_message"
         },
         {
-            "dialog_key": "dialog_ramdom2",
+            "dialog_key": "dialog_ramdom3",
             "ramdom": "After collecting bugs, I will start working on a fixed version, be patient please.",
             "type": "ramdom_message"
         },
