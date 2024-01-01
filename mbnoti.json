@@ -16,8 +16,8 @@
             "type": "support_message"
         },
         {
-            "dialog_key": "dialog_ramdom3",
-            "ramdom": "After collecting bugs, I will start working on a fixed version, be patient please.",
+            "dialog_key": "dialog_ramdom4",
+            "ramdom": "Happy New Year for you! May this year be filled with joy, love, and success. May each day be an opportunity to grow and be happy. Here's to an amazing 2024! 🎉🥳✨",
             "type": "ramdom_message"
         },
         {
