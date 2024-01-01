@@ -1,7 +1,7 @@
 {
     "dialogs": [
         {
-            "dialog_key": "dialog_join2",
+            "dialog_key": "dialog_join3",
             "ramdom": "",
             "type": "join_channel"
         },
