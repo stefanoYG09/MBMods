@@ -16,8 +16,8 @@
             "type": "support_message"
         },
         {
-            "dialog_key": "dialog_ramdom4",
-            "ramdom": "Happy New Year for you! May this year be filled with joy, love, and success. May each day be an opportunity to grow and be happy. Here's to an amazing 2024! 🎉🥳✨",
+            "dialog_key": "dialog_ramdom5",
+            "ramdom": "Version 9.95 will be out soon, please be patient.",
             "type": "ramdom_message"
         },
         {
