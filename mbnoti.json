@@ -16,7 +16,7 @@
             "type": "support_message"
         },
         {
-            "dialog_key": "dialog_ramdom1",
+            "dialog_key": "dialog_ramdom2",
             "ramdom": "Version 9.95 will be out soon, please be patient.",
             "type": "ramdom_message"
         },
