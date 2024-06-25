@@ -1,3 +1,0 @@
-{ 
-"versionmb":"2.21.4.24", "downloadmb":"https://t.me/MBMods"
-}
