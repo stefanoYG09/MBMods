@@ -1,9 +1,0 @@
-{ 
-"version":"9.35",
- "version_last":"9.35",
-"description":"• Based on Fouad 9.35\n• Added: Show notification for blocked calls due to calls privacy\n• Exclusive: Custom Double Tap emoji for every chat\n• Fixed: Chat Counter for Arabic Users \n• More fixeds",
-"expActi":"9.35",
-"how":"https://mb-mods.com/fouad/how_update.php", 
-"download_mb":"https://mb-mods.net/mbwa-ios/", 
-"download_wa":"https://mb-mods.net/fouad-ios/"
-}
