@@ -1,3 +1,0 @@
-{ 
-"whatsapp":"https://mb-mods.com/fouad/wa9121.apk", "mbwhatsapp":"https://mb-mods.com/fouad/mbwa9121.apk", "version":"9.12.1", "pathwa":"/.mb/wa9121.apk", "pathmb":"/.mb/mbwa9121.apk", "browserwa":"https://www.mediafire.com/download/dj8vq0pr0fmxx4i", "browsermb":"https://www.mediafire.com/download/s95ww9zl05anb5f"
-}
