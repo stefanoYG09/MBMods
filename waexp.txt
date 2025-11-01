@@ -1,5 +1,0 @@
-{
-"wa":"https://mb-mods.net/fouad-ios/",
-"mb":"https://mb-mods.net/mbwa-ios/",
-"how":"https://mb-mods.net/"
-}
